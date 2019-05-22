@@ -25,6 +25,7 @@ namespace CalculatorWebApplication
 
             gvCalculations.DataSource = client.GetCalculations();
             gvCalculations.DataBind();
+            gvCalculations.HeaderRow.Cells[0].Text = "Recent Calculations";
         }
     }
 }

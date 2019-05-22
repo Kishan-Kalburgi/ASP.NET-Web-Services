@@ -28,6 +28,5 @@ C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServic
 C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.ApplicationInsights.xml
 C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.csprojResolveAssemblyReference.cache
 C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.dll
 C:\Users\kishan.srinivas\KK's Playground\.net projects\WebServicesDemo\WebServicesDemo\obj\Debug\WebServicesDemo.pdb
